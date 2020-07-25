@@ -6,4 +6,4 @@ Timeseries analysis tutorials made by myself.
 2. Handling timeseries data using pandas
 
 #### Ex1. Korean stock market analysis
-#### 
+#### Ex2. Economic data analysis
