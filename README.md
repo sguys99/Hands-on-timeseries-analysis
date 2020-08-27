@@ -10,6 +10,7 @@ Timeseries analysis tutorials made by myself.
 6. Linear trend and seasonal methods for time series forecasts  
 7. Dickey-Fuller test  
 8. ARIMA(part1)  
+9. ARIMA(part2)
 
 **Ex1. Korean stock market analysis**  
 **Ex2. Economic data analysis**
