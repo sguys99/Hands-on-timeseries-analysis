@@ -11,3 +11,5 @@ Timeseries analysis tutorials made by myself.
 7. Dickey-Fuller test  
 8. ARIMA(part1)  
 9. ARIMA(part2)
+10. 
+11. Using statistical machine learning for time series forecasting
