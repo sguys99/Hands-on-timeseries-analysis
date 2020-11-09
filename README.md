@@ -1,6 +1,6 @@
-# Hands-on-timeseries-analysis
+# Hands on time series analysis
 
-Timeseries analysis tutorials made by myself.
+Time series analysis tutorials made by myself.
 
 1. Understanding datetime library
 2. Handling time series data using pandas
@@ -13,3 +13,4 @@ Timeseries analysis tutorials made by myself.
 9. ARIMA(part2)
 10. 
 11. Using statistical machine learning for time series forecasting
+12. Backtesting machine learning models for time series forecasting
